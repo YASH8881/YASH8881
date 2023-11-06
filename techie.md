@@ -14,7 +14,7 @@
 </ul>
     <h2>📫 How to reach me ?</h2>
     <ol>
-      <li>MY LinkedIn Profile Link- https://www.linkedin.com/in/yash-gupta-9a82b3236/recent-activity/all/</li>
+      <li>My LinkedIn Profile Link- https://www.linkedin.com/in/yash-gupta-9a82b3236/recent-activity/all/</li>
       <li>My Gmail- yashgupta112001@gmail.com</li>
      </ol>
 
@@ -23,7 +23,4 @@
 
  
 
-<!---
-YASH8881/YASH8881 is a ✨ special ✨ repository because its techie.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
